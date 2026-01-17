@@ -1,0 +1,56 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+.flattened-pom.xml
+
+# IDE - IntelliJ
+.idea/
+*.iws
+*.iml
+*.ipr
+*.iml
+
+# IDE - Visual Studio Code
+.vscode/
+.classpath
+.project
+.settings/
+*.launch
+
+# IDE - Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Build
+build/
+dist/
+*.jar
+*.war
+*.ear
+*.class
+
+# STS (Spring Tool Suite)
+.sts4-cache/
+
+# Maven Wrapper
+.mvn/
+mvnw
+mvnw.cmd
+
+# Local files
+*.log
+local.properties
