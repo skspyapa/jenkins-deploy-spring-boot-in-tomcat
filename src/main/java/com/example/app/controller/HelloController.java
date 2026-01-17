@@ -16,4 +16,9 @@ public class HelloController {
         return "This is a sample Spring Boot API running successfully on Tomcat server.";
     }
 
+    @GetMapping("/api/message/hi")
+    public String getHiMessage() {
+        return "Hi, Everyone";
+    }
+
 }
